@@ -36,15 +36,19 @@ Uses the following tools in this repository:
 - [nodemon](https://graphql.org/)
   - Simplifies development environment by automatically restarting Node.js applications when file changes in the directory are detected.
 
+Repository splits into `client` and `server` sections to handle different parts of the development mode.
+
 ## Usage
 :keyboard:
 
-If the repository was cloned, run the files with `npm install` and start the server with `npm start`.
+If the repository was cloned, run the files with `npm install` and start the server with `npm run develop`.
+
+User is able to log in, sign up, post thoughts and add reactions to thoughts. user is able to navigate to other user's profiles and add them to their friends list.
 
 ## Deployment
 :computer:
 
-[Deployed Website Link](#)
+[Deployed Website Link](https://deep-thoughts-proj.herokuapp.com/)
 
 ## Contributing
 :octocat:
