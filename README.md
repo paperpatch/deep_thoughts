@@ -21,6 +21,8 @@ Uses the following tools in this repository:
   - GraphQL is a query language for APIs and a runtime for fulfilling those queries with your existing data.
 - [Apollo Server](https://www.apollographql.com/docs/apollo-server/)
   - Open-source, spec-compliant GraphQL server that's compatible with any GraphQL client, including Apollo Client. Uses apollo-server-express package to integrate GraphQL into Express.js server, and the @apollo/client package to make requests from React front end to the GraphQL API.
+- [Apollo Client](https://www.apollographql.com/docs/react/)
+  - All-in-one dependency that enables connection to a GraphQL API server and execute queries or mutations using their own special form of React Hooks.
 - [React Router](https://graphql.org/)
   - Collection of navigational components that compose declaratively with the application, allowing single-page React applications behave more like multi-page applications.
 - [concurrently](https://graphql.org/)
